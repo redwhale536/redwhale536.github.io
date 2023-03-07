@@ -41,3 +41,9 @@ div {
     padding: 10px;
   }
 }
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
